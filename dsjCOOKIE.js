@@ -66,12 +66,7 @@ module.exports = {
       "key": "dsjheader",
       "val": "a4f6cb00c8193d61c6d2aff5547099b1&TkdZeVl6Z3pNakV3T1RZd1lUTmlZMkl3T1dFeU0yVTVOamd6T0RaaFkyRT18MTYzNDAwMTQ0NjA4OTgwOTY5NHw1NGY2YmUzNjFjYjJmMDdhOTg5ZmYyZGZkODI5OWQ0ZTEzNmQ2YTIz"
 }, 
-   {
-      "key": "dsjheader2",
-      "val": "1d1a63c6de7e00d17c105e6302f3011d&WlRRNFltTTFPVGhpWmpKalpURXh1R0ppWXprd1pUTmlaREk1WVdRMk1qVT18MTYzMTg4MTc1NDc0NzkxNzExN3w0NTU5ZDY1NzY2MjlmNmVkZjJhMmRhYzA3ODYxZjU0N2QzNjI0NzVm"
-    }, 
-   
-],
+   ],
     "sessions": [],
     "isLoaded": true
   }
